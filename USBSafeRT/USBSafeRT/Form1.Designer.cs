@@ -50,6 +50,7 @@
             this.colTime,
             this.colDevName,
             this.colRemarks});
+            this.listView1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
             this.listView1.Location = new System.Drawing.Point(12, 141);
@@ -62,7 +63,7 @@
             // colSNo
             // 
             this.colSNo.Text = "S No";
-            this.colSNo.Width = 44;
+            this.colSNo.Width = 57;
             // 
             // colDate
             // 
@@ -73,7 +74,7 @@
             // colTime
             // 
             this.colTime.Text = "Time";
-            this.colTime.Width = 112;
+            this.colTime.Width = 130;
             // 
             // colDevName
             // 

@@ -102,6 +102,7 @@
   <ItemGroup>
     <Content Include="Images\Radar2.gif" />
     <Content Include="Images\scanning.gif" />
+    <Content Include="Images\TextFile1.txt" />
     <Content Include="Images\USB-icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
